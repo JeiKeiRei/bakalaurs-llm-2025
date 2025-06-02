@@ -112,8 +112,8 @@ python scripts/comprehensive_analysis.py
 |---------|----------|:------------:|:-----------:|:------:|
 | **Qwen3 (1.7B)** | Neapmācīts | **0.836** | 0.767 | 0.920 |
 | MedLLaMA2 (7B) | Apmācīts | 0.677 | 0.550 | 0.880 |
-| ChatGPT 4o mini | Abi | 0.667 | 0.750 | 0.600 |
 | DeepSeek-v2 (16B) | Apmācīts | 0.667 | 0.696 | 0.640 |
+| ChatGPT 4o mini | Abi | 0.667 | 0.750 | 0.600 |
 
 **Labākais rezultāts:** Qwen3 neapmācīts ar F1=0.836  
 **Stabilākais:** ChatGPT 4o mini ar konsekventiem rezultātiem  
