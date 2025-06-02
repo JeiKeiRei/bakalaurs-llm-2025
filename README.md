@@ -127,7 +127,7 @@ Repozitorijā pieejamas šādas analīzes:
 3. **☁Lokālie vs Mākoņa modeļi** - Izvietošanas veidu salīdzinājums
 4. **Modeļa izmēra analīze** - Parametru skaita ietekme uz veiktspēju
 
-## ⚠Svarīgi ierobežojumi
+## Svarīgi ierobežojumi
 
 - **Tehniskās prasības:** Lieli modeļi prasa daudz GPU atmiņas
 - **Datu apjoms:** Eksperimenti veikti ar ierobežotu paraugu skaitu (50)
