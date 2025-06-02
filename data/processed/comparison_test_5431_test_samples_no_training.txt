@@ -1,0 +1,285 @@
+# Test Samples (For AI Without Training Examples)
+
+Analyze each text below and determine if it shows suicidal ideation or depression.
+Respond with ONLY 'Suicidal' or 'Depressed' for each sample.
+
+Sample T001:
+I’ve been awake for the last 3 or so hours. My partner got home around 2 and woke me up. I haven’t been able to close my eyes for more than 5 minutes or so (not sure if that’s accurate, I’m very tired) without very graphic ideation and overwhelming physical intent. I don’t want to kill myself, but I very much want to kill myself. I’m just reaching out to feel a little less lonely right now.
+
+Sample T002:
+My suicidal thoughts have gone from not serious to something I fantasize about. It actually makes me feel better to think about it because I want it so bad. I’m just to big of a pussy to actually do it. Anyone’s 2 cents is valuable to me. Have a happy moment today :)
+
+Sample T003:
+My relationship with Instagram is complicated. While I do see it as a good way to promote certain things like my amateur photography for example, I also feel like it’s repetitive to an extent. I feel like whenever I go on there, it’s mostly the same old kinds of posts. Gym selfies, selfies in general, people who brag about their rich lifestyles, the list goes on and on. Witnessing those kinds of posts over and over just ain’t good for my social anxiety and depression. Does anyone else feel the same way?
+
+Sample T004:
+If I have time to think then all I want to do is commit suicide.  
+If I watch movies or play games or something similar that is not boring to me I am fine.  My problem is at work it’s an 8hr suicide thinking session
+
+Sample T005:
+Going bowling with some friends from school this weekend, and I’m looking forward to it but also scared of ruining the night.
+
+
+I wanna be myself, but at the same time, I don’t wanna come off as depressing to everyone, I have to put on a happy face, and act like everything is okay.
+
+And it really sucks you know? I wish I could be vocal about my life and not be given blank looks from everyone and turn the mood sour with my negativity.
+
+Any tips on how maybe I can have a good time. I’ve considered just taking some Adderall and that’ll solve my problems but idk.
+
+Sample T006:
+Hey, i'm Anwen, I have a dissociative personality disorder aka DID. I guess that's just important info, i'm hella depressed, I don't enjoy anything anymore, I don't want to talk to people, friends have started leaving me because my disorder is getting worse, nobody knows or understands my disorder, I hate my situation overall and I genuinely want to die...
+
+Sample T007:
+I am so done. I literally am out of energy to give and everything is going to shit again. I feel like I can't breathe and I really don't have the energy to fight again. I just want to sleep and never wake up.
+
+Sample T008:
+She looks so peaceful. I wonder if she would miss me if I'd died. I wonder if its possible to be reborn as a cat once you die
+
+Sample T009:
+I can’t tell if I’m sad or depressed. Like I have friends that I hang out with and laugh and joke around with, but a the end of the day im never a first choice. And whenever I’m alone or not doing something I get consumed with thoughts about how I’m not good enough and everyone would be better without me. But at the same time I can get out of bed and go to school and I laugh along with friends and am pretty lively. But when I’m alone I’m just consumed with intrusive thoughts and what not.
+
+Sample T010:
+It never has and never fucking will
+
+Sample T011:
+It’s been almost a year since I was put on antidepressants and nothings changed. They’ve tried different meds and different doses but it doesn’t work. At first I was slowly giving up but now I just rapidly feel like nobody can help me like I’m just a shit stain everyone walks on and I know for a fucking fact I wouldn’t be missed. Jesus Christ I sound pitiful but god damn it there’s nothing left for me. I’ve been diagnosed with PTSD recently and they tell me that my depression is from the PTSD but Jesus I feel like I’m just another mark on the books of a fucked up people. Every day I hope to fucking god I don’t wake up and every day I do. Everyday it takes me two hours to get to sleep only to have nightmares and wake up after two hours. I’m so fucking tired and I’m so fucking done with trying. The universe has won and I feel like now it’s just waiting with a bowl of popcorn to see how I end. I feel like I’m constantly screaming and screaming in a room full of people but nobody cares to look nobody hears me. It’s just so fucking worthless to keep trying it seems.
+
+Sample T012:
+[the user, Jordan.](https://www.reddit.com/u/jordan177013/?utm_source=share&amp;utm_medium=ios_app&amp;utm_name=iossmf)
+I’ve sent him/her a suicide prevention link (probably not much help) already. They’ve created multiple posts recently to multiple subreddits on suicide, I’m awful with these things, I hope they’ll be okay.
+
+Sample T013:
+Goodbye
+
+I wish things could have gone differently, I hate every second of life. I hate every thought that I have, every breathe that I take and every piece of my life. I don’t want to suffer for the rest of my life, but I also don’t want others to suffer for my “selfish” choice. I hated growing up, abused, everyday insults 
+
+for something that I didnt do. I hated going home and then going back to school feeling different and separated from everyone else. I rushed life, I didnt do anything important growing up, I had amazing friends that I love and who also are the reason that I’m still here. I was always told that I didnt know 
+
+anything, and maybe I don’t, maybe this is a foolish choice, maybe theres a hell. I feel like my life is just going into a dead end. I hate college I dont even know what I want to do with my life, I feel like im wasting my time, but at the same time I feel like Im learning more about my self but why the fuck is it 
+
+so hard? I have a chance to go the campus therapist, but for some reason i keep hesitating to call, its like I need someone to push me, but theres not going to be anyone, its just me alone in my dorm room. I just dont want to live anymore. I feel like Im worthless, I have zero value, I need someone. I feel almost like i’m only living for others..
+
+Sample T014:
+It’s finals time in school. I’ve been more stressed out then usual and my meds don’t seem to work. Last night it just got to much to handle and I cut myself it felt good during the moment but now I feel terrible. I was doing so good I was almost a year cut free. I’m worried that my parents might mind out now and I’ll have to have a talk with them. Why did I make such a stupid decision I hate myself for this.
+
+Sample T015:
+I suffer from asthma, bronchopulmonary dysplasia, and a heart condition. My lungs only function at 80%. I've suffered from pneumonia multiple times in the past and had to be placed on oxygen. If I were to contract the coronavirus, I'd likely die. My family is generally healthy, so they'd likely be alright and only experience a mild case of the virus. I think I'd rather die from the virus than suicide, since it'll spare my family the guilt.
+
+Sample T016:
+Man, holy fuck. I feel very neutral or passive right now. For the past 3 odd days I've just kind of been floating by. I've tried to kill myself twice in the past 5 months. Some people just aren't long for this world, and I truly, with all my being, believe that. I'm not cut out for this man. And it's paradoxical too because I think I have an objectively good life (outside of loneliness, my diagnoses of major depression disorder w/ suicidal ideations, complex PTSD, and anxiety). I have a truck, an apartment to myself, a cat, and a decently paying job (I'm surviving, ha). I just feel so goddamn lonely. All my irl friends I usually push away because I don't want to be bothered a lot of the time and I feel shameful telling them my mental problems. Fuck me man I am so tired.
+
+Just a heads up, I really don't want any of you to tell me why I shouldn't kill myself or my life has meaning and I'm loved. I don't like hearing that stuff.
+
+Sample T017:
+Coping is no longer working. I'm not actively suicidal, but passive. I'm peeling my fingers bloody. Chewing my lip bloody. I want to shave my head. The last time I did that I was 21 and in serious need of mental health help. Or a hug. Who knows. I have chronic pain that is awful the last few years, relationship problems that he won't work out with me because he chooses to be stubborn and stand offish. 
+
+
+I don't know how much more of life I can handle without cracking and shattering. It's been mostly abuse and loneliness with a few brief happy moments. I've inherited every crazy gene in the family on top of that. I don't know how much I can take. So I want to shave my head because that will help.. somehow, I don't know. 
+
+
+I'm just struggling in general. I don't know how to cope anymore. Journaling helps for a few minutes. Crafting helps for a few minutes. Standing in the sun helps for a few minutes. I don't know how else to feel better because nothing feels better for long. 
+
+
+I automatically start rocking in a chair every time I sit in it, I'm rocking myself as I wrote this. The chair isn't a rocking chair.
+
+Sample T018:
+Can I just rant? Can I just post that people do not seem to even want to connect with other people today?  My goodness how I have reached out for help with no one responding. YET my cats are coddling me like no tomorrow because they can sense something is up?! What is wrong with us as human beings? Are we really that afraid of connection?
+
+Sample T019:
+I am desperate for advice on how to explain to my 11 year old son what depression is. I actually have bipolar disorder but don't even know where I'd start with that one. My son gets very angry with me. He thinks I choose to be/feel this way and says "just stop being sad be happy how easy is that?!" I know I cannot be upset with him for not understanding, but I'm also extremely frustrated about it. He says it's embarrassing to have a mom with depression. That just hurts me even more. 
+
+He went from having a happy, energetic, spunky, fun, thrill seeking, supportive mom to one who lays in bed all the time, is constantly fatigued, has migraines constantly, no patience, never wants to do anything, cries a lot, etc. I feel like he's grieving me. I grieve myself, so I can understand. But he cannot. He thinks I'm just being selfish, lazy, mean, etc. 
+
+I looked on Google for some ideas but didn't find anything that I felt like going with. I've tried many times to explain it from my perspective, but he just cannot comprehend what I'm saying. I'm lost, and it's making me feel even worse. Please, if anyone has anything helpful I'd greatly appreciate it!!!
+
+Sample T020:
+I’ve been suffering for years and just this November I decided to tell my parents and ask for help because I couldn’t find a therapist on my own and wanted help. They listened, said a lot of “the right things” but near the end of the discussion they summed it up to stress and school and activities and tried to “fix my problems”. They agreed to search for a therapist though and a couple days later even told me they found someone and were waiting on a call back. It’s been about 4 months and there’s been nothing. When I ask they only say they’re waiting on a call back. I just want help. It’s gotten progressively worse and worse. I’ve come here because I am in a place currently where I’m afraid I could go home and commit suicide. I just needed to rant, sorry if this doesn’t fit the sub or the rules, I only scanned them.
+
+Sample T021:
+Hi..I don't know where else to go. I am devastated right now, feeling like I'm spiraling out of control, I feel so fucking numb from crying my lungs out. Even my best friend is no longer supportive, my family, parents at home are shit. I have no real friends who care, and I can't be bothered to do anything right now, I just want to sleep without waking up to see another morning. I feel so fucking pathetic and shit, I cut myself regularly now and I'm having so much fucking self pity, I'm pretending to be normal because I don't want to lose my best friend, the only person who has helped me come this far from previous suicidal attempts. But suppressing it makes it so much fucking worse I feel like nobody fucking cares, no matter how many times I shout for help. No one close to me cares.  I don't know what to do. I'm leaning towards paracetamol poisoning all over again, if I die I die, If I don't I try a different method. I just feel like absolute shit, jobless. I regret everything in my life, every fucking thing, I don't know who to trust anymore, I don't even have a fucking shoulder to lean on while crying my lungs out. Im in a LDR, from past 6 months, (not prior to that) as she's studying overseas, I can't even fucking have her hold me in her arms when I'm feeling like shit. She is the best and supportive, and my best friend but I can't hurt her by harming myself so It's a fucking struggle. I just feel so enraged and angry at everything..I can't fucking find a job due to covid-19. Sometimes it feels like If I had some money to get myself kicked off I can go near her and find a job and at least stay sane. But right now it all seems so fucking impossible I feel like I'm such a fucking mess and I just wish to fucking die right now, I feel so much burden when I inhale, I just want to die. I got no where else to go.  I am planning on consuming meds tonight I just can't do it anymore.
+
+Sample T022:
+If I down a bottle of sleeping pills and painkillers, would it take me?
+
+Sample T023:
+The only reason im not dead yet is bc of my friends amd family. I could neber hurt them like that. But its draining. I fucking hate it. I hate it with every fiber. But i have to stay alive so at least this bullshit paim doesn't affect others. This is bullshit.
+
+Sample T024:
+Title says it all, i did a full upper body workout to cope with the thoughts in my head. Blasting twenty one pilots 🤘
+
+Today was a pretty shit day, i had bad hair the entire day which was shit. And i got home and the voices returned and kept telling me i was piece of shit.
+
+Ive got one question, how do you learn to love yourself?
+
+Sample T025:
+Okay, here it goes. I don’t really care if this isn’t a throwaway account, it’s whatever.
+
+During the beginning of my teenage years, (13) I didn’t care about anything, how i looked, or anything of that sort. Looking in mirrors was fine, and life was good.
+
+When i hit 14 i sent a really horrible selfie of myself to a group of online friends, was bullied really bad for it, and so on. From then on i’ve been incredibly alert of myself, if you know what i mean. 
+
+I stayed with this friend group because they were the only people i knew and could talk to, my parents hated me for being gay, and my brothers only took in their footsteps. After this, i just completely broke down, got so insecure that i wore a jacket for a year because i was so scared of anyone seeing me. That ended when i was 14. 
+
+I stopped because i just decided to stop feeling sorry for myself and that i was the only problem in that situation. Since then, it’s only gotten worse. I now spend all time i can get in my room, under a blanket, won’t call anyone because i don’t want anyone to hear how bad i sound, don’t let anyone see me because of how bad i look, etc. 
+
+I’ve attempted suicide once, and that one time my dad walked in on me trying to hang myself. I’ve given it lots of thought since then, and honestly, every day it feels like a better option.
+
+I don’t know why i’m posting this, something in me told me to post this here. Hope everyone reading this has a fantastic day, though.
+
+Sample T026:
+I mean yes never feeling happiness, always feeling tired, and all that other shit that comes with depression would've contributed to this, but I think I'm just using depression as an excuse to hide the fact that I'm a terrible person.
+
+I've had depression since at least the age of 10. I'm 17 now and until about a year or two ago my depression was never a huge problem. I was passing school, I had friends and I had hobbies. But one day after my suicide attempt I got a random boost in motivation, and I felt happiness for the first time in years. Feeling happiness only made me realize how miserable I am all the time, which led to me figuring out that I have depression.
+
+Ever since I became aware of this, I started doing things like, failing school, ghosting friends, and dropping out of hobbies. Whenever I smile or laugh, I hide it and try my best to make myself sad. I fetishized my sadness, sadness was my happy place, and being happy was painful for me. I feel like I'm just putting on a play for myself to hide the fact that I'm just a selfish ass, who does nothing but play videogames all day. Now here's a good confession, I don't have a suicide attempt, yeah when the the day came I was to lazy to get out of bed and walk to the railway so I just didn't. Yet everyone I've told my story to has heard me talk about my suicide attempt, I told myself this so much that I actually forgot I never even tried for a while, but it's all a lie, just an excuse to make me look more broken then I already am. Some days I think of actually going there, and reenacting that moment to see if I'll actually do it or not, but I'm to lazy to get out of bed so as if I'd do that.
+
+I fear that my therapist will find out. That if I get cured from my depression that I'm still going to be just as shitty as always and that it was just me all along. If that's true then that means there's no curing me, and that I'm just going to be like this forever.
+
+Sample T027:
+No more suffering no more humiliation no more worrying about the future, too bad im such a coward i wanna die so bad
+
+Sample T028:
+And again, i’m laying in bed crying. i feel like a failure. i can’t save money, i don’t have a degree in anything, i can’t drive, i don’t have my own place. i quite literally live in a basement. a shitty one at that. 
+i could move with my dad but that would mean living on the same property as the man who molested me for half my life. Wasn’t my dad, but my step grandfather. 
+
+i’m losing a will to keep going more and more. i’m tired of being belittled by so many people in my life. i just wish i got more support in real life and not just online. i mean i love the support but i just really want to be praised and told that everything is going to be better by someone in my life. i crave it but i don’t get that instead i always get knocked down
+
+Sample T029:
+Is it just me or does the world seem to be fucked ever since 2012. I wish the world ended in 2012 so I wouldn't have to deal with all the bullshit that I have been through. 
+
+I'm currently in debt by like $25000, I work a full time job that is dependent on weather and the sea. My job pays well through winter but once summer hits I get paid fuck all. When I fall fully into a depressive/dilussional state of mind. My brain races at 100 miles an hour at all times, every little thing I over analyse. I have seen my only friend go through drug addiction and drug related psychosis. I have seen how life can shit all over you. 
+
+My depression started at an early age because of bullying and lack of friends. Except the one in my life currently, you can't destroy our relationship. I feel like my depression really kicked in when I was around 15 or 16. My friend moved away to another city and I was left all alone. At the time bullying got worse and I made a few acquaintances but no real close friends. When I was 17 I dropped out of school and moved out of my family home. I started to have panic attacks in the shower and that was when I turned to drugs to numb the pain. Xanax was my go to for sedation as I could fight the effects somehow I loved that. Iv been a daily cannabis smoker for most of the time since I was 16 except the times I ran out and couldn't get anymore. I have done lots of psychedelics (u could call me a psychonaut) any sort of alternate reality really. Cannabis helps motivate me to stuff. 
+
+I'm currently 19, still a virgin and struggling with financial situations. I  only just earn enough money every week to cover my bills so I never really buy anything for myself except weed. I can never seem to get ahead of my depression. It's like it just keeps dragging me down. When I'm really depressed I choose to sleep most of the day as sleeping is the only place where I can shut the fuck up. (I have lucid dreams all the time). 
+
+If you actually read this good on you, I'm fucking done with life.
+
+Sample T030:
+I feel like a lot less bad things would happen to people around me if I wasn’t around. I feel like a burden.
+
+I feel like I just always end up causing bad things to happen to everyone around me, which I try -so- hard to prevent. 
+
+But even the things that are out of my control, still feel like they wouldn’t have happened, if I wasn’t around to cause that string of events to happen. And I always blame myself.
+
+Sample T031:
+Fuck anhedonia. I'm tired of people telling me to fake it til I make it; I'm tired of people giving me suggestions that work for a neurotypical person but not for someone with anhedonia. Nothing is interesting, nothing brings any pleasure or joy. It legitimately feels like my brain is rotting. Every second that I'm alive feels like absolute hell.
+
+
+I've dealt with this shit for too long. I'm tired of it. For years I've felt like I'm already dead. I really wish I could just die already.
+
+Sample T032:
+No one has asked me "how are you?" In such a long time  that now I have to asked myself very night "how are you?" Just to start crying because I know the answer....
+I dont have friends I'm the guy they reach for when they need something...I'm so tired....I'm jealous of some of my friends they go quiet for a day and everyone ask them how they are... but when I do it? Nothing...
+I'm a person too you know I guess I dont actually have friends.
+
+Sample T033:
+I remember the past few weeks were the ones in the summer where I wasn't able to see you much. I felt so sick, not because I couldnt see you, but because I knew I would. The fact that everytime I seen you, you acted as if you loved me so much. Why did you? I never understood and I couldnt comprehend. I didnt believe you the slightest. And even the day I broke it off with you for the first time, I didnt understand why you seemed to be on the verge of crying. I didn't even say it out loud that I thought we weren't going to last, you just read me like a book. Whenever you read me, did i seem pathetic? All I felt was numb. My heartless self watched you walk away, and the last feeling id feel for a long time walked away too. I wish I could tell you about it all. I loved you so much. I tell these lies, apologizing how I didnt appreciate you enough then, telling lies to my friends about how I really felt. My only desire was to die, the quickest way to get it done was to get rid of you. In the end, I didnt die, but at the same time I did. I didn't even have enough energy to tie a knot or swallow any meds, it even felt so heavy to blink. Im horrible for acting like i hated you after, you acted like you hated me. I dont blame you for it, for me it was just a way to not let my pride down. We grew back together, we were so close. It got to the point we felt for eachother again. But I didnt understand why I was still fucking numb. I didnt want to be with you, I wasnt ready. I wanted to die. Everytime I almost did it, id somehow end up back where I started. I hurt you so much. Somehow, some way, we got through it. You never found out how I really felt. We made it. Im better. I love you so much. Everyday I'm wallowing in self hatred, because of the pain I caused you. Yet you had believed you were in the wrong? I don't understand that, i never will. You're always in my mind. I want to die, but I push through it for you. So I can see you once again every day. My greatest fear, will be the day you say "I love you" for the very last time.
+
+Sample T034:
+Fuck everything I’ve worked so hard and prayed so much and it’s all still going so bad.
+
+I don’t know what to do anymore I can’t even wake up without crying I hate this
+
+Sample T035:
+I’m in college and everything is ruined. I’ve failed my maths class for the third time so I’m excluded from and science and business majors.  My gpa is shit. My degree advisor says to major in something in humanities. Aka end up poor and with no job prospects after college.
+
+I can’t even attend next semester because I have no money. I was hit in a car accident on my bike and had to spend my tuition money on it. I also couldn’t afford insurance. I can’t get a loan for school so I’m fucked. There are no other options. I’ve maxed out my credit card for food and rent because I couldn’t work with a broken leg.
+
+I have no friends or family to help me. Therapy is pointless. Hotlines don’t work. Group therapy doesn’t work. I’ve reached out for help like people said. It’s over. People always say “talk to a therapist” as if everything gets fixed but it doesn’t. Maybe for your small issues. 
+
+I’ve never been loved or cared about. I only have myself. Now is the end. I’ve had depression since I was 8. I should’ve expected this. I wish I hadn’t wasted my time thinking things could get better. I should’ve done this in high school. Goodbye.
+
+Sample T036:
+It is midnight and I cannot sleep again. I cannot remember the last time I slept through the night. I sleep in tiny spurts throughout the day but can never stay down for long. I often have nightmares even when I do stay sleeping for some time.
+
+The other night, for example, I woke up screaming. I had been dreaming that I was eating a bowl of cereal and looked down and my spoon was covered in spiders. I actually like spiders so I am not sure why it scared me so bad. My husband reached over and held my hand and shushed me until I calmed down. It seems like he is too good to me always. I feel like I don't deserve it.
+
+Tonight I looked outside the window at the world as I often do throughout the day. I thought to myself: the people that I have met, all of them, all of the people I have come across... does anyone of them ever think of me? Ever? Do they ever wonder how I am? Even just for a second? If they did, I wish I knew, because I feel like a shadow living life alone inside my house day after day. 
+
+At the same time I feel that I am unworthy of friendship, community, love. Today at therapy my therapist asked me my goals. I said... to have a friend and to be a part of a small community that truly cared for me. But I have never felt or experienced that. I only know what friendships and loving communities are like from observing others. I truly pity anyone who would want to befriend me, because I think I would make the worst friend.
+
+Sample T037:
+I have a low IQ. Twice I've been tested and both times I got an IQ around 84-85. Somehow, I didn't do entirely awful in school, I was able to be a B student without much studying. When I actually started studying I started to get grades in the 90s and even some at 100%. Even though I skimmed through with exemplary grades, I barely retained any of what I learned. Nobody around me believes that I am stupid because of my grades, but that is all they go off of. I have a poor vocabulary overall, especially in spoken word, and I cannot do basic mental math. I still count with my fingers and I am nineteen years old. I am from a low income, uneducated family so I was innately disadvantaged from birth, also with having my mom smoke weed and cigarettes throughout her pregnancy with me. During the 8th month of her pregnancy I detached from the placenta and they had to preform an emergency c-section. It is very likely that I have brain damage from oxygen deprivation. 
+
+ I just feel incredibly empty every moment I am awake. My favorite time of the day is when I go to sleep at night, but night always goes by too quickly. Lately I've been spending everyday sleeping because I have much more joy in my dreams. I just want at least an average intelligence, at least. It is unbearable being aware every moment that I am dumb and will only ever be dumb. I have always aspired to leave the financial hole, but everyday that passes reminds me that it will probably never happen. At this point I feel like I am stuck between a rock and a hard place, because I am terrified to leave behind my family and my pets, but I know if I continue living my life will only get worse and worse. Please, if anyone could give me even just a smidgen of hope I will be greatly appreciative.
+
+Sample T038:
+Everyday I feel better I feel the pain flood back into my heart. I’m stuck in a terrible spot, I hate my family and now that they know I have depression (friend forced me to tell a teacher) they treat me like I’m weak. I hate it, I know I suck but I’m strong enough to not take my life yet so just stop talking to me, please. I’m in love with my best friend and that could not be going worse and I want to cut my wrists, slit my throat and just bleed out soon. I would throw myself off a building but I want to do it soon. I just I can’t take it. Every moment I’m not good enough for him and someone else is in his arms I want to do it more. I hate myself more everyday.
+
+Sample T039:
+So many people have experienced it, and so many more *don't even realize* that they have. We were too young to remember, or we think that one thing that happened doesn't count, or we are in denial that that's what it truly was. But our body remembers. Our bodies and our souls, they carry the heaviness of the pain that we can never seem to put down. I believe that most of the times people want to end their lives, even if they are doing it slowly through addictions or passive behaviors, it's for this reason. 
+
+Whether we were manipulated, tricked, forced, brutalized, lied to, used and discarded... all of these actions cut deep, to the very core of our being, and it feels like there's no way to ever move past them. When there's nothing else to distract us, the weight is unbearable.
+
+Sample T040:
+I was literally driving my girlfriend to this store and traffic was so insane. I kept getting cut off and people almost hit me. Eventually I just thought “thanks god she’s here because I just wanna drive off this fucking road”. The slightest inconvenience is starting to set me off and it kind of worries me.
+
+Sample T041:
+Not gonna lie, I feel like a fucking dumbass typing this. But I’m failing at life, really want to die, and am too embarrassed to explain to the people closest to me that I would rather die than proceed with my futile attempts at life. So here I am, on reddit, for some unknown fucking reason. I guess I just need to vent and this seems like the best place because I’m sure no one I know will look here. So here it goes
+
+I’m 23. Live in my parents basement with an amazing girl that I really don’t deserve. Most of my life I’ve been the quiet kid. Most people were scared of me in school because of that, but I’m too much of a pussy to actually do anything. Only reason anyone would talk to me was because I played football and went to school with most of my team. 
+
+From elementary school through middle school I was really fucking ugly. Acne was terrible, huge fucking nose, no confidence. Had like 2 encounters with girls during this time period and I was a hardcore “nice guy.” Those 2 encounters were enough for everyone to realize I’m pretty fucking retarded. So most people avoided me. High school I peaked. (and by peak I really don’t mean much. Just the time that I wasn’t absolutely pathetic) Met the girl I’m with now, got in really good shape and did pretty good in football. Managed to get fucking C’s all throughout though so I got no scholarship for college. 
+
+After high school my parents were amazing enough to pay for my college. 5000 fucking dollars a semester for me to do average my first semester then fail calculus my second semester. After my second semester I let my father convince me that I should go to school closer to home and do electrical engineering. First semester I did average. Next semester I failed fucking Chemistry and lab. Semester after that I failed my chemistry lab again so I had to switch to Computer engineering. Semester after that I failed Pde’s. Pretty much every semester after that I’ve failed classes. Not because I’m not learning the material but because I’m so fucking lazy I don’t do half the homework. Usually my homework grades suck but my test scores are good but not good enough to keep me from failing. Every year my parents keep telling me that they are going to make me move out and pay for my own school, but they keep giving me more chances and I keep royal fucking those chances. Honestly don’t understand why they give me so many chances. 
+
+Anyways, this year isn’t any different. Last semester I took 3 fucking classes (9 credit hours) and failed all three of my classes. Worst I’ve ever done. So this current semester I’m retaking 2 of the 3 I failed and just had to withdraw from one of them and the other I will probably get a C in. I don’t get it. I have a part time job at fucking Chili’s, I live at home, have everything going for me; don’t have to worry about expenses, amazing girlfriend, family that loves me. Yet I can’t fucking pass two fucking classes.
+
+I’m a failure. Honestly no other explanation. I get to tell my mother that after this semester I am dropping out and moving out, therefore waisting 50,000$ of her money. Thing is, if I can’t pass two fucking classes how the fuck an I suppose to live on my own. Other thing is, I wouldn’t be on my own, my girlfriend would be with me which makes everything worse because I would be dragging her down with me. So instead of moving out I have decided I should probably just kill myself. I’ve planned it out for the most part. I have a 30-06 in my room that guarantees my death, I’ve scouted a place out where no one will be able to find my corpse. I haven’t written my goodbye letter because I’m honestly too pathetic to write one and probably won’t even leave one, I plan on depositing all of my money into an account that my girlfriend has access to so she can get out of this house as quickly as possible if need be, etc...
+
+I know my death will negatively impact those closest too me but I’m almost positive my parents will get over it. Honestly my father has given up on me so I don’t think he’ll care much. My grandparents will be devastated but they will get over it.
+Only one I’m worried about is my girlfriend. She’s about to start a new job right when I plan on killing myself and I don’t want to ruin that. I’m sure I can figure something out.
+
+At the same time. I really don’t want to die. It still breaks my heart that I have to leave everything behind. My family has two amazing dogs that I would die for, I managed to go out with a girl way out of my league for 5 years that’s about to get a job relevant to her dream career, I have grandparents, aunts, and uncles that all seem to like me, etc...
+
+Guess I’ll just bring a couple bottles to try and get over that heartbreak so I can pull the trigger.
+
+Anyways, sorry to start my own fucking pity party. It was just hurting me to not say or write anything before I die since I’ve done relatively good at hiding my depression from everyone. 
+
+Thank you for reading.
+
+Sample T042:
+I was doing so good, the birds all sang in the morning, the aroma of the flowers; I had not been enticed by that smell in such a long time. I had managed to clean my room; got rid of the giant stack of clothes, the water bottle collection and opened up the curtains to let the sun radiate my small lumpy mattress. Lost 5 pounds in 2 weeks from eating right and hitting the gym. Went out of my way to interact with people, like I used to love. I was planning to make a cheesecake with my niece and make strawberry flowers. Then I realized how pointless all THIS is. I’m NEVER going to be happy. I guess that’s just how it goes. Like a swing, bro. Now I’m here indecisive on whether to buy the poison that has released me from the shackles of existence countless other times or return to my prison cell and “face it like a man”. Either way there is no way out.
+
+Sample T043:
+Sometimes I just cant even. I hate school so much, I hate everything about it. I hate all kinds of work too, I’m so fucking tired of all off it, having to work hard and try all the time and its still fucking useless, I still cant do jack shit and I’m a completely useless piece of human garbage. I hate life I wanna fucking die seriously
+
+Sample T044:
+I’ve had suicidal thoughts for a very long time. I’ve seen my GP, been put on meds, I’ve been to counselling you name it I’ve tried. But apart of me just feels like I’ve had enough and the only option is just to end my life. Sounds dramatic and selfish but if I’m honest I just feel like I have nobody there for me anymore and I’m just disappointing people around me like my parents for example, I know deep down that I’m just a failure in their eyes and all I’m doing is prolonging more upset for them as I’ve made there lives difficult in certain aspects with my depression and constantly making them worry. But I also feel as tho if I end it then there wouldn’t be that worry I’d then be gone. if I speak to my friends about it they’ll just turn around and say man up or stop being soft. Which has now just caused me to believe that I don’t have anyone there close to me to talk to, feel like Cant rely on anyone anymore and I just would be better off dead. Me and my ex split 6 months ago a short term relationship but that was one thing I felt really happy about and that ended because of how I am, just sad and perhaps not all there, or perhaps I’m just not capable in being in a relationship as there’s just clearly something wrong with me. I don’t see myself moving on from her to another as it shattered me deeply and I just can’t seem to want to get back out there, I just don’t believe I’m that type of person for anyone like she was at the time. Many things I could add to the list like I’m mid 20s I only have a part time job and I don’t feel motivated or want to look for a career because I just don’t feel I’m good enough anymore. Feels as though I’m really done with life and that my times is up and I don’t really know what to do anymore. I’m just sad and existing in a world that I don’t want to be apart of anymore and I’m typing this really because I don’t know who else to talk to about it anymore. I just want to crawl in a ball and cry every day and I wake up and go to sleep thinking I want to be dead. I just wish I could be happy again and be myself but it just doesn’t feel an option anymore..
+
+Sample T045:
+For the longest time, I couldn't see myself living past 25. This mostly came about towards the last year of University and got worse around the end of 2017, when I wasn't landing work. 
+
+In 2018, I met someone and suddenly I felt alive again. I felt calm and collected. Although I was stuck in the same loop of applying for work, it didn't feel as tiresome. In 2019, I got accepted into medicine and moved overseas. My partner starts tearing us apart 3 weeks into my move... I drop out of med school because the stresses from the break up became way too much to handle. Especially since I was overseas.
+
+Now I am back to applying for jobs in my old degree and getting nowhere. I am heavily depressed. I can't see myself past 25 again. I have this strong feeling I will die this year. 
+
+Atm, I welcome death with open hands... I am tired of life constantly shifting on me. :'(
+
+Sample T046:
+Got in touch with this young guy and cannot figure d him anymore..I hope is fine.
+
+Sample T047:
+So I’ve suffered some heavy depression for a long time, my ex that I absolutely loved to the max just got along so well, she was so gorgeous, caring, loving and nice. She was the first girl I actually loved in a long long time. Me and her were so good for each other I thought. She knew I was suffering from depression but the crazy part is every day I was with her I was improving. She was the support I used to slowly walk up the steps to getting better. I was happy as can be to have a girl like that and for myself to climb out of that depressed hole I was in for so long. Well we got into an argument before our breakup because I thought we were being pretty distant and she blew up. She told me “I just can’t handle it anymore” and left me, I was heartbroken. She couldn’t handle my depression anymore and that’s what hurt the most. I loved her with my whole heart and now she looks at me like I’m some stranger on the streets. She never truly explained to me why everything happened and she won’t talk to me at all now. I thought I was making us stronger by opening up to her and having her help me but she never told me how much I was hurting her with my depression. She saw me improve so much and deciding to leave outta no where made no sense to me. Well here we are today, all that progress lost. I feel worse than I ever have in my life. It really fucking hurts to know the one person I loved most couldn’t handle me at my worst and left me to rot. I don’t even know what to do. I’ve deadass just been hooking up with girls at parties and drinking with my friends until I blackout. I don’t know if I can trust another girl with any of my emotions again or even trust myself to love someone again. I just wanted to give her the world but I ruined it for her and us. I’m a piece of shit I know, but i just want her to see that I was improving and for her to come back.
+
+Sample T048:
+Me : 21yo french garbage
+My parents made me go to engineering school, far from their home in paris, after 3 years of preparatory in maths and physics . I immediatly hated the school, i  did a few entreprise visit with my class and i knew i didnt want to be an engineer. I d rather kill myself than becoming one engislave. I made really good friends in this city tho, even if i wasn't going to school anymore  at one point i was still very happy because of them.
+
+So i told my parents i wanted to stop engineering school, that i wanted to get a job until next year when i will go study something i always dreamt about, becoming a doctor. I went back home for holidays, 3 weeks ago.
+
+I have rough background story with my parents, i'm always in conflict with them and until last summer they always solved conflicts by hitting me or insulting me, saying horrible things that made me hate them. They did make me sleep outside for a few days when i was still a good student in preparatory class, they made me bleed several times, my dad with a sharped stick of wood and my mom with her nails.
+
+I told them i wanted to get a job in the city i was studying, far from home, because i could be near my friends. I told them being home with them was torture, that it was making me go insane and suicidal. I'm still at their home rn, i have a job, but i still want to go live in this city, with my friends and my girlfriend who lives there and to get a job there. Nobody talks to me at home, they took my computer and my credit card. I cant go out, i cant see any friend nearby, i cant do anything or enjoy life. 
+
+They want me stay here, no discussion possible. They make me want to kill myself, they repeating every time i talk about my friends that they don't care about me, that they think i'm a looser and  a piece of shit because i stopped this school.
+
+I want to go to this city next week, but i dont have my appartment anymore. I don't know how to convince them to pay the rent for just one month, the time for me to get a job and be independent.
+
+Sample T049:
+I just fucking hate my life but have to keep fucking acting like everythings fucking fone and happy i cant bring myself to fucking tell anyone how depressed i am but i can post it here and tell you guys, you are my only escape from reality and the only thing that makes me feel less lonely
+
+Sample T050:
+I will try to fix everything. Your words save me a life. You are best community ever. I will ask help to my Wife’s husband. He is pretty good and rich man. Reddit I love u &lt;3. I was too scared to ask help but u help me to realize life doesn’t end, when u lost money’s.And i wanna give advice for everyone who lost any hope for some reason(lost girlfriend,money, who scared to tell relatives about orientation or tired to live or something else) when I’m step on edge of roof.  I Understand life doesn’t end when u lose something important to u, life end when u decide to give up. So pls never give up. U must live whatever it takes. Any complexity is just a step that you must overcom, if you can get it alone just ask for help and in the whole world will be one person who can help u to resolve it. Good luck buddies
+
