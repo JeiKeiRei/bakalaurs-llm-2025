@@ -140,7 +140,7 @@ Izmantota **SDCNL** (Suicide vs Depression Classification) datu kopa:
 
 - **Avots:** Haque et al. (2021) - [SDCNL GitHub](https://github.com/ayaanzhaque/SDCNL)
 - **Saturs:** 1,895 Reddit ieraksti no r/SuicideWatch un r/Depression
-- **⚖Licenza:** Akadēmiskai izmantošanai
+- **Licenza:** Akadēmiskai izmantošanai
 
 ## Saites
 
