@@ -1,0 +1,9 @@
+accuracy,precision,recall,f1,true_positives,false_positives,true_negatives,false_negatives,model,condition,model_size,deployment,sample_count
+0.8,1.0,0.6666666666666666,0.8,2,0,2,1,DeepSeek-v2 (16B),trained,16B,Local,5
+0.6,0.6666666666666666,0.6666666666666666,0.6666666666666666,2,1,1,1,DeepSeek-v2 (16B),untrained,16B,Local,5
+0.6,1.0,0.3333333333333333,0.5,1,0,2,2,MedLLaMA2 (7B),trained,7B,Local,5
+0.4,0.5,0.3333333333333333,0.4,1,1,1,2,MedLLaMA2 (7B),untrained,7B,Local,5
+0.4,0.0,0.0,0.0,0,0,2,3,Qwen3 (1.7B),trained,7B,Local,5
+0.8,1.0,0.6666666666666666,0.8,2,0,2,1,Qwen3 (1.7B),untrained,7B,Local,5
+0.7,0.75,0.6,0.6666666666666666,15,5,20,10,ChatGPT 4o mini,trained,Unknown (Cloud),Cloud,50
+0.7,0.75,0.6,0.6666666666666666,15,5,20,10,ChatGPT 4o mini,untrained,Unknown (Cloud),Cloud,50
