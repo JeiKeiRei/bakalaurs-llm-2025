@@ -148,16 +148,16 @@ Izmantota **SDCNL** (Suicide vs Depression Classification) datu kopa:
 - **SDCNL datu kopa:** [github.com/ayaanzhaque/SDCNL](https://github.com/ayaanzhaque/SDCNL)
 - **OLLAMA platforma:** [ollama.ai](https://ollama.ai)
 
-## Atsauces
+## Datu kopas atsauce
 
 ```bibtex
-@thesis{abele2025llm,
-  title={Valodas Modeļu Pielietojumi Depresijas Atpazīšanā un Ārstēšanā},
-  author={Ābele, Artūrs},
-  year={2025},
-  school={Latvijas Universitāte, Eksakto zinātņu un tehnoloģiju fakultāte},
-  type={Bakalaura darbs},
-  url={https://github.com/JeiKeiRei/bakalaurs-llm-2025}
+@inproceedings{haque2021deep,
+ title={Deep Learning for Suicide and Depression Identification with Unsupervised Label
+Correction},
+ author={Ayaan Haque and Viraaj Reddi and Tyler Giallanza},
+ booktitle={ICANN 2021},
+ year={2021},
+ url={https://github.com/ayaanzhaque/SDCNL}
 }
 ```
 
