@@ -1,6 +1,0 @@
-sample_id,ai_prediction,true_label
-T001,Suicidal,Suicidal
-T002,Suicidal,Depressed
-T003,Suicidal,Depressed
-T004,Suicidal,Suicidal
-T005,Depressed,Depressed
