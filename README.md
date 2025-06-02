@@ -12,8 +12,8 @@ Bakalaura darbs par lielo valodas modeļu (LLM) izmantošanu depresijas un pašn
 Šis pētījums salīdzina lokāli darbināmu un mākoņa valodas modeļu efektivitāti depresijas un pašnāvniecisko domu atšķiršanā, izmantojot SDCNL (Suicide vs Depression Classification) datu kopu no Reddit sociālās platformas.
 
 ### Testētie modeļi:
-- ##Mākoņa modelis:## ChatGPT-4o mini
-- ##Lokālie modeļi:##
+- **Mākoņa modelis:** ChatGPT-4o mini
+- **Lokālie modeļi:**
   - DeepSeek-v2 (16B)
   - MedLLaMA2 (7B) 
   - Qwen3 (1.7B)
